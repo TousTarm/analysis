@@ -1,0 +1,7 @@
+[package]
+name = "fibonacci_project"
+version = "0.1.0"
+authors = ["Big T"]
+edition = "2024"
+
+[dependencies]
